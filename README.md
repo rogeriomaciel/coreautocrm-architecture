@@ -2,6 +2,10 @@
 
 *Por Rogério Maciel & Antigravity (CoreAutoCRM Team)*
 
+> 🌐 **Estudo de Caso & Teardown Oficial no Ar:**  
+> Acesse a análise técnica interativa e benchmarks de produção em:  
+> [rogeriomaciel.com.br/solucoes/transpilar-n8n-microsservicos-fastify/](https://rogeriomaciel.com.br/solucoes/transpilar-n8n-microsservicos-fastify/)
+
 ---
 
 ## 🎯 1. O Paradoxo do MVP Moderno
@@ -96,3 +100,13 @@ A arquitetura desenvolvida no **CoreAutoCRM** prova que o futuro do desenvolvime
 > **Desenvolva visualmente a 100 km/h no n8n. Transpile e execute em Bare-Metal Fastify a 1.000 km/h em produção.**
 
 Essa abordagem entrega a velocidade de inovação de um MVP com a solidez de engenharia de um unicórnio.
+
+---
+
+## 💼 Consultoria & Assessoria de Arquitetura
+
+Precisa eliminar gargalos de memória e latência nas automações da sua empresa ou deseja implantar essa arquitetura no seu negócio?
+
+👉 **[Trocar uma ideia diretamente com Rogério Maciel no WhatsApp](https://wa.me/5562996232227?text=Ol%C3%A1%20Rog%C3%A9rio%2C%20vi%20o%20reposit%C3%B3rio%20coreautocrm-architecture%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20arquitetura%20de%20automa%C3%A7%C3%B5es.)**  
+👉 **[Conheça o Portal Oficial de Soluções: rogeriomaciel.com.br](https://rogeriomaciel.com.br/solucoes/n8n-travando-memoria-solucao/)**
+
